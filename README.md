@@ -5,3 +5,4 @@
 + TODO列表
   + http://antirez.com/news/101 
   + https://www.joelonsoftware.com/
+  + http://norvig.com/21-days.html
