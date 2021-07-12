@@ -11,3 +11,4 @@
   + http://www.kegel.com/c10k.html c10k问题
   + https://stackify.com/unit-testing-basics-best-practices/ You Still Don’t Know How to Do Unit Testing
   + https://dzone.com/articles/unit-testing-best-practices   Unit Testing Best Practices: JUnit Reference Guide
+  + https://mahmoudanouti.wordpress.com/2018/01/26/20-examples-of-using-javas-completablefuture/ 译文:https://colobu.com/2018/03/12/20-Examples-of-Using-Java%E2%80%99s-CompletableFuture/
