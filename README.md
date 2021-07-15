@@ -1,5 +1,5 @@
-+ 为了提高英语水平，会翻译一些文章
-+  参考
+
++  一些翻译的参考
   + https://arthurchiao.art/articles-zh/
 
 + TODO列表
