@@ -12,8 +12,8 @@
 
 
 ## ARST
-### 20210717
-+ 
++ [20210717](https://github.com/X-Leonidas/ARST/blob/main/src/2021%E5%B9%B47%E6%9C%8817%E6%97%A5.md)
+
 
 ## 资料
 ### 一些翻译的参考
